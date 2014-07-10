@@ -33,5 +33,13 @@
         android:layout_height="wrap_content"
         android:text="Delete Table" />
 
+    
+    
+    <Button
+        android:id="@+id/button5"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="195dp"
+        android:layout_height="wrap_content"
+        android:text="Save Data To File" />
 
 </LinearLayout>
